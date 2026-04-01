@@ -1,0 +1,19 @@
+
+# Project Title
+Transforming EDA Projects into Power BI Dashboard for Airbnb Listings: A Comparative Study of Chicago and New Orleans
+
+# Problem Statement
+Airbnb, a global platform for short-term property rentals, enables users to book accommodations in diverse urban areas. This study aims to explore Airbnb operations in Chicago and New Orleans to identify trends, differences, and patterns in listings, pricing, property types, and host behavior.
+The goal is to use Power BI to provide a comprehensive comparative analysis that supports actionable insights for Airbnb’s management and hosts.
+Key Questions:
+1.	Which neighbourhoods are most popular, and how do their listings and prices differ? 
+2.	What are the dominant room types and property types in each city? 
+3.	How does pricing vary with location, property type, and reviews? 
+4.	How do host types correlate with reviews and pricing? 
+
+# Objective of the Study
+•	Compare Airbnb listings in Chicago and New Orleans. 
+•	Identify popular areas, property types, and room types. 
+•	Analyze pricing trends across locations, property types, and reviews. 
+•	Examine host behavior and its influence on pricing and reviews. 
+•	Build a Power BI dashboard that visualizes these insights effectively. 
